@@ -1,0 +1,17 @@
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\StringLibraryTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\StringLibraryTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\StringLibraryTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\StringLibraryTest\bin\Debug\netcoreapp2.2\StringLibraryTest.deps.json
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\StringLibraryTest\bin\Debug\netcoreapp2.2\StringLibraryTest.runtimeconfig.json
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\StringLibraryTest\bin\Debug\netcoreapp2.2\StringLibraryTest.runtimeconfig.dev.json
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\StringLibraryTest\bin\Debug\netcoreapp2.2\StringLibraryTest.dll
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\StringLibraryTest\bin\Debug\netcoreapp2.2\StringLibraryTest.pdb
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\StringLibraryTest\bin\Debug\netcoreapp2.2\StringLibrary.dll
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\StringLibraryTest\bin\Debug\netcoreapp2.2\StringLibrary.pdb
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\StringLibraryTest\obj\Debug\netcoreapp2.2\StringLibraryTest.csprojAssemblyReference.cache
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\StringLibraryTest\obj\Debug\netcoreapp2.2\StringLibraryTest.csproj.CoreCompileInputs.cache
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\StringLibraryTest\obj\Debug\netcoreapp2.2\StringLibraryTest.AssemblyInfoInputs.cache
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\StringLibraryTest\obj\Debug\netcoreapp2.2\StringLibraryTest.AssemblyInfo.cs
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\StringLibraryTest\obj\Debug\netcoreapp2.2\StringLibraryTest.csproj.CopyComplete
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\StringLibraryTest\obj\Debug\netcoreapp2.2\StringLibraryTest.dll
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\StringLibraryTest\obj\Debug\netcoreapp2.2\StringLibraryTest.pdb

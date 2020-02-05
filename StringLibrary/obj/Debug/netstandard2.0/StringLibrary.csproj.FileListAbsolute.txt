@@ -1,0 +1,9 @@
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\StringLibrary\bin\Debug\netstandard2.0\StringLibrary.deps.json
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\StringLibrary\bin\Debug\netstandard2.0\StringLibrary.dll
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\StringLibrary\bin\Debug\netstandard2.0\StringLibrary.pdb
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.csprojAssemblyReference.cache
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.AssemblyInfoInputs.cache
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.AssemblyInfo.cs
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.dll
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.pdb

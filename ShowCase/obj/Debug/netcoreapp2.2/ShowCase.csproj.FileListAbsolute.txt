@@ -1,0 +1,14 @@
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\ShowCase\bin\Debug\netcoreapp2.2\ShowCase.deps.json
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\ShowCase\bin\Debug\netcoreapp2.2\ShowCase.runtimeconfig.json
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\ShowCase\bin\Debug\netcoreapp2.2\ShowCase.runtimeconfig.dev.json
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\ShowCase\bin\Debug\netcoreapp2.2\ShowCase.dll
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\ShowCase\bin\Debug\netcoreapp2.2\ShowCase.pdb
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\ShowCase\bin\Debug\netcoreapp2.2\StringLibrary.dll
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\ShowCase\bin\Debug\netcoreapp2.2\StringLibrary.pdb
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\ShowCase\obj\Debug\netcoreapp2.2\ShowCase.csprojAssemblyReference.cache
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\ShowCase\obj\Debug\netcoreapp2.2\ShowCase.csproj.CoreCompileInputs.cache
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\ShowCase\obj\Debug\netcoreapp2.2\ShowCase.AssemblyInfoInputs.cache
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\ShowCase\obj\Debug\netcoreapp2.2\ShowCase.AssemblyInfo.cs
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\ShowCase\obj\Debug\netcoreapp2.2\ShowCase.csproj.CopyComplete
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\ShowCase\obj\Debug\netcoreapp2.2\ShowCase.dll
+C:\Users\Beef Erikson Studios\source\repos\C#\ClassLibraryDemo\ShowCase\obj\Debug\netcoreapp2.2\ShowCase.pdb
